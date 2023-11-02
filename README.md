@@ -6,7 +6,7 @@
 This project aims to address the computer vision problem of detecting and classifying defects in solar panels using Electroluminescence (EL) imaging. Our team has developed methods to predict the health of photovoltaic (PV) cells within solar modules. This work was carried out as a part of a group project for [Your Course Name], and it adheres to the academic integrity guidelines provided by UNSW.
 
 ## Colab
-[Colab](https://colab.research.google.com/drive/1aqjYkj5MbLOfmQ5ruPwWHqYrOV77r6dM?usp=share_link)
+[link](https://colab.research.google.com/drive/1aqjYkj5MbLOfmQ5ruPwWHqYrOV77r6dM?usp=share_link)
 
 
 
